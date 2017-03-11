@@ -1,0 +1,20 @@
+The filling factor |  Avg effort found |  Max effort found  | Avg effort Not Found  | Max effort not found 
+       0.800000           1.994533           27                       6.88                  45
+       0.850000           2.150400           32                       9.24                  50
+       0.900000           2.527200           44                       14.19                  89
+       0.950000           3.267200           84                       25.93                  168
+       0.990000           4.626000           265                       102.96                  744
+The filling factor |  Avg effort found |  Max effort found  | Avg effort Not Found  | Max effort not found 
+       0.800000           1.995600           24                       7.01                  43
+       0.850000           2.180933           35                       9.27                  54
+       0.900000           2.425067           45                       13.93                  92
+       0.950000           3.072667           65                       25.67                  177
+       0.990000           4.573067           209                       100.40                  700
+The filling factor |  Avg effort found |  Max effort found  | Avg effort Not Found  | Max effort not found 
+       0.800000           1.975733           25                       6.92                  43
+The filling factor |  Avg effort found |  Max effort found  | Avg effort Not Found  | Max effort not found 
+       0.800000           2.051200           24                       6.93                  42
+       0.850000           2.134267           37                       9.43                  53
+       0.900000           2.531733           45                       14.63                  80
+       0.950000           3.264933           76                       26.08                  162
+       0.990000           4.902667           247                       103.48                  739
